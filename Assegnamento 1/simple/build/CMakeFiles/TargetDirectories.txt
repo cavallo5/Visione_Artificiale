@@ -1,0 +1,7 @@
+/home/vincenzo/Desktop/simple/build/CMakeFiles/install/strip.dir
+/home/vincenzo/Desktop/simple/build/CMakeFiles/edit_cache.dir
+/home/vincenzo/Desktop/simple/build/CMakeFiles/list_install_components.dir
+/home/vincenzo/Desktop/simple/build/CMakeFiles/simple.dir
+/home/vincenzo/Desktop/simple/build/CMakeFiles/install/local.dir
+/home/vincenzo/Desktop/simple/build/CMakeFiles/rebuild_cache.dir
+/home/vincenzo/Desktop/simple/build/CMakeFiles/install.dir
